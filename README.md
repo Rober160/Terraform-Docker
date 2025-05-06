@@ -1,4 +1,4 @@
-# Terraform-docker
+# Terraform-Docker
 **Proyectos Prácticos con Terraform + Docker**
 
 Ideas de proyectos:
