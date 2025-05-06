@@ -1,10 +1,10 @@
 # Terraform-docker
 **Proyectos Prácticos con Terraform + Docker**
 
-Ideas de proyectos:
+_Ideas de proyectos:_
 
-_1. Contenedores Simples_
-_2. Aplicaciones Web + Bases de datos_
-_3. Despliegue de APIs_
-_4. VPN y proxys_
-_5. Monitorización_
+1. Contenedores Simples
+2. Aplicaciones Web + Bases de datos
+3. Despliegue de APIs
+4. VPN y proxys
+5. Monitorización
