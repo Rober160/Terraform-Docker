@@ -1,7 +1,7 @@
 # Terraform-docker
 **Proyectos Prácticos con Terraform + Docker**
 
-_Ideas de proyectos:_
+Ideas de proyectos:
 
 1. Contenedores Simples
 2. Aplicaciones Web + Bases de datos
