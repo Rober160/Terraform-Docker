@@ -1,5 +1,5 @@
-# Terraform+Docker
-**Proyectos Prácticos con Terraform + Docker**
+# Terraform + Containers
+**Proyectos Prácticos con Terraform + Contenedores (Docker y Kubernetes)**
 
 Ideas de proyectos:
 
